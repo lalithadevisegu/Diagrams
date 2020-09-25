@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T04:59:11.283Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" version="13.7.5" etag="b_VEJ31rPH5DYrUnaSgq" type="github"><diagram id="_6UZKinLHExrfAM6xh6Q">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-25T05:16:30.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="2UtUj3hQSnZR32xpNpKP" version="13.7.5" type="github">
+  <diagram id="_6UZKinLHExrfAM6xh6Q" name="Page-1">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SNPXyOWN6XBq7oPaAwMi-12" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;rounded=1;glass=1;sketch=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="420" y="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SNPXyOWN6XBq7oPaAwMi-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.371;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;startSize=3;endSize=3;fontFamily=Times New Roman;" edge="1" parent="1" source="SNPXyOWN6XBq7oPaAwMi-15" target="SNPXyOWN6XBq7oPaAwMi-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SNPXyOWN6XBq7oPaAwMi-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.412;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;startSize=3;endSize=3;fontFamily=Times New Roman;" edge="1" parent="1" source="SNPXyOWN6XBq7oPaAwMi-15" target="SNPXyOWN6XBq7oPaAwMi-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SNPXyOWN6XBq7oPaAwMi-15" value="Netowork Interface" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="370" y="240" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SNPXyOWN6XBq7oPaAwMi-24" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="365" y="330" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SNPXyOWN6XBq7oPaAwMi-25" value="VM" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;glass=1;sketch=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="405" y="330" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SNPXyOWN6XBq7oPaAwMi-26" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="SNPXyOWN6XBq7oPaAwMi-27" value="Storage" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;glass=1;sketch=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="235" y="240" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SNPXyOWN6XBq7oPaAwMi-29" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;fontFamily=Times New Roman;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="SNPXyOWN6XBq7oPaAwMi-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="300" as="sourcePoint" />
+            <mxPoint x="250" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SNPXyOWN6XBq7oPaAwMi-30" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="SNPXyOWN6XBq7oPaAwMi-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="327" as="sourcePoint" />
+            <mxPoint x="470" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SNPXyOWN6XBq7oPaAwMi-33" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SNPXyOWN6XBq7oPaAwMi-34" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="550" y="160" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SNPXyOWN6XBq7oPaAwMi-35" value="Virtual Network" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;glass=1;sketch=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="395" y="165" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SNPXyOWN6XBq7oPaAwMi-36" value="Public IP Address" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;glass=1;sketch=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="570" y="165" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SNPXyOWN6XBq7oPaAwMi-41" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SNPXyOWN6XBq7oPaAwMi-42" value="Network Security Group&lt;br&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;glass=1;sketch=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="365" y="90" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SNPXyOWN6XBq7oPaAwMi-44" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="159" as="sourcePoint" />
+            <mxPoint x="440" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
